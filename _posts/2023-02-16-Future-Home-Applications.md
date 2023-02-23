@@ -8,6 +8,7 @@ tags: [jekyll, ai]
 
 This homework is to propose an innovative Projects and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
+![]([https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true](https://image.gamebase.com.tw/gb_img/1/004/075/4075731.jpg))
 
 ---
 ### Homework Report
