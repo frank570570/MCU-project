@@ -8,6 +8,7 @@ tags: [jekyll, ai]
 
 This homework is to propose an innovative Projects and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAG5GRTJIcl4E3cQe2vFE1v5T5HTNNgWIMiA&usqp=CAU)
 ![](https://image.gamebase.com.tw/gb_img/1/004/075/4075731.jpg)
 
 ---
