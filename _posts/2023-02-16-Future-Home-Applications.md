@@ -8,13 +8,9 @@ tags: [jekyll, ai]
 
 This homework is to propose an innovative Projects and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAG5GRTJIcl4E3cQe2vFE1v5T5HTNNgWIMiA&usqp=CAU)
-![](https://image.gamebase.com.tw/gb_img/1/004/075/4075731.jpg)
-![](https://media.gq.com.tw/photos/628b2ec34824d010bb0b3cd4/master/pass/165306325038.jpeg)
----
+
 ### Homework Report
 **Contents:**<br>
-![](https://upload.wikimedia.org/wikipedia/zh/e/e9/%E9%97%9C%E6%96%BC%E6%88%91%E5%9C%A8%E7%84%A1%E6%84%8F%E9%96%93%E8%A2%AB%E9%9A%94%E5%A3%81%E7%9A%84%E5%A4%A9%E4%BD%BF%E8%AE%8A%E6%88%90%E5%BB%A2%E6%9F%B4%E9%80%99%E4%BB%B6%E4%BA%8B.jpg)
 * **應用與功能說明**
   - Specify the future home application, and Describe the key features
   - Describe the key features which may be applied to the home space (kitchen, living room, play room, study room, bed room)
