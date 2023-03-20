@@ -54,7 +54,7 @@ This homework is to propose an innovative Projects and describe the key features
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
-
+![](images/111 1 of 1.png)
 
 ---
 ## Design Methodology (設計方法)
