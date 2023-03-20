@@ -71,11 +71,11 @@ The Target Market size (TAM) of Future Home Products is the number of household.
 
 ---
 ### Taiwan Student = 421.2 萬人 ， 中產階節約67.8%
-* [Number of Srudent in the Taiwan ]([https://www.statista.com/statistics/183635/number-of-households-in-the-us/](http://www.stat.org.tw/data/asoctopic/109%E5%AD%B8%E5%B9%B4%E5%AD%B8%E6%A0%A1%E5%9F%BA%E6%9C%AC%E6%A6%82%E6%B3%81%E7%B5%B1%E8%A8%88%E7%B5%90%E6%9E%9C%E6%8F%90%E8%A6%81%E5%88%86%E6%9E%90.pdf])<br>
-* [台灣中產階級比例]([https://joelin.cc/?p=1763])<br>
+* [Number of Srudent in the Taiwan ]([https://www.statista.com/statistics/183635/number-of-households-in-the-us/]([http://www.stat.org.tw/data/asoctopic/109%E5%AD%B8%E5%B9%B4%E5%AD%B8%E6%A0%A1%E5%9F%BA%E6%9C%AC%E6%A6%82%E6%B3%81%E7%B5%B1%E8%A8%88%E7%B5%90%E6%9E%9C%E6%8F%90%E8%A6%81%E5%88%86%E6%9E%90.pdf])<br>
+* [台灣中產階級比例]([https://joelin.cc/?p=1763])
 
 ### American Student = 7660萬
-* [Number of Srudent in the US ]([https://zh.wikipedia.org/zh-tw/%E7%BE%8E%E5%9B%BD%E6%95%99%E8%82%B2])<br>
+* [Number of Srudent in the US ]([https://zh.wikipedia.org/zh-tw/%E7%BE%8E%E5%9B%BD%E6%95%99%E8%82%B2])
 
 
 
