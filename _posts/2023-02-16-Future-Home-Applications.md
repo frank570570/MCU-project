@@ -22,7 +22,7 @@ This homework is to propose an innovative Projects and describe the key features
 ---
 
 ### 超級書桌
-![](https://www.google.com/aclk?sa=l&ai=DChcSEwj3tqnnte39AhVCQ2AKHZh1DTUYABAJGgJ0bQ&sig=AOD64_2et3rSyCpcPrYt8Lamrsl7PWaunQ&adurl&ctype=5&ved=2ahUKEwj86Z7nte39AhXakVYBHQJ1CaMQvhd6BQgBEIIB)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftw.buy.yahoo.com%2Fgdsale%2FLebonlife-100x60x73cm%25E7%25B0%25A1%25E7%25B4%2584%25E5%25A4%259A%25E5%258A%259F%25E8%2583%25BD%25E5%25B7%25A5%25E4%25BD%259C%25E6%25A1%258C-%25E6%259B%25B8%25E6%25A1%258C-%25E8%25BE%25A6%25E5%2585%25AC%25E6%25A1%258C-%25E9%259B%25BB%25E8%2585%25A6%25E6%25A1%258C-9995605.html&psig=AOvVaw2ypKfIZddIbLM23t8NTE86&ust=1679501775804000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjOx-i17f0CFQAAAAAdAAAAABAI)
 ### 應用功能說明
 1. 回到家自動丟下背包自動幫我把所有裝置放到我需要的位置，讓我可以在上個廁所的時間內完成預備作業
 2. 自動幫我把需要充電的物品充電，並放置好預備位置
