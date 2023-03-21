@@ -55,7 +55,7 @@ This homework is to propose an innovative Projects and describe the key features
 
 ### 系統方塊圖
 
-![image](https://github.com/frank570570/MCU-project/blob/361be9e3ad9cf4b1f228a9ef8ed32abb83fca6ae/images/111%201%20of%201.png)
+![](https://github.com/frank570570/MCU-project/blob/d9494e74a8f1fdb0a4b035de3c8e7b43e62aa6e2/images/111%201%20of%201.png)
 
 ---
 ## Design Methodology (設計方法)
