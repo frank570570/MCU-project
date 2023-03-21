@@ -22,7 +22,7 @@ This homework is to propose an innovative Projects and describe the key features
 ---
 
 ### 超級書桌
-![image](https://github.com/frank570570/MCU-project/blob/main/images/IMG_1261.jpg)
+![image](https://drive.google.com/file/d/1LV-Ufz35-otxlHSBm4Lk-20iTmnelD3B/view?usp=share_link)
 ### 應用功能說明
 1. 回到家自動丟下背包自動幫我把所有裝置放到我需要的位置，讓我可以在上個廁所的時間內完成預備作業
 2. 自動幫我把需要充電的物品充電，並放置好預備位置
@@ -55,7 +55,7 @@ This homework is to propose an innovative Projects and describe the key features
 
 ### 系統方塊圖
 
-![image](https://github.com/frank570570/MCU-project/blob/d9494e74a8f1fdb0a4b035de3c8e7b43e62aa6e2/images/111%201%20of%201.png)
+![image](https://drive.google.com/file/d/1LV-Ufz35-otxlHSBm4Lk-20iTmnelD3B/view?usp=share_link)
 
 ---
 ## Design Methodology (設計方法)
