@@ -40,14 +40,13 @@ This homework is to propose an innovative Projects and describe the key features
 2. 移動方式:對書桌安裝馬達、機器手臂
 3. 供電方式:插電
 4. 聯網方式:WiFi或BT to 手機
-4. 作業系統：採用Android OS
 
 **所需相關技術：**
 1. 滑軌式機器手臂(可辨識插孔並準確插入、移動物體) ＆ 軟式夾具
-2. 物體辨識分類：Jetson-Nano + IMX219
-3. 聲音辨識:將人聲辨識並進行任務
-4. 光學感測器:避免誤傷、辨識出現今物體位置並記錄
-5. 聲音感測器:感測人聲
+2. Edge Impulse 訓練模型 對機器手臂進行操控
+3. yolo v3物件辨識模型進行分析
+4. 聲音辨識:透過網頁使用HTML5語音識別API，並將資料傳給ESP32控制GPIO
+5. 光學感測器:避免誤傷、辨識出現今物體位置並記錄
 6. 記憶體記錄位置
 7. 智慧燈泡連接：AWS Alexa介接, 或藍牙命令操控燈光
 8. 照度感測: ADC界面讀取光敏電阻(GL5516)
