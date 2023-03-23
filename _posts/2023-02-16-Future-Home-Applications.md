@@ -54,20 +54,10 @@ This homework is to propose an innovative Projects and describe the key features
 ### 系統方塊圖
 ![](https://raw.githubusercontent.com/frank570570/MCU-project/b0ade341e8cd13e5ee80e520b7314ee6817ab554/images/111%201%20of%201.png)
 ![](https://raw.githubusercontent.com/frank570570/MCU-project/732aa9770fc6792a96e227f68210978de9727d7b/images/%E9%A0%AD%E8%85%A6%E9%A2%A8%E6%9A%B4.jpg)
----
-## Design Methodology (設計方法)
-* Top-Down Design  ：由上層應用分析再區分出下層個別功能及所需軟硬體設計
-* Bottom-Up Design ：由底層軟硬體元件往上組合出上層所需應用功能
 
 ---
 ## Market Analysis (市場分析)
 
-
----
-### TAM of Future Home Products
-The Target Market size (TAM) of Future Home Products is the number of household.<br>
-
----
 ### Taiwan Student = 421.2 萬人 ， 中產階節約67.8%，共285萬人
 * [Number of Srudent in the Taiwan ]([https://www.statista.com/statistics/183635/number-of-households-in-the-us/]([http://www.stat.org.tw/data/asoctopic/109%E5%AD%B8%E5%B9%B4%E5%AD%B8%E6%A0%A1%E5%9F%BA%E6%9C%AC%E6%A6%82%E6%B3%81%E7%B5%B1%E8%A8%88%E7%B5%90%E6%9E%9C%E6%8F%90%E8%A6%81%E5%88%86%E6%9E%90.pdf])<br>
 * [台灣中產階級比例]([https://joelin.cc/?p=1763]
