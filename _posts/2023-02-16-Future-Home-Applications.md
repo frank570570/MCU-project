@@ -23,6 +23,7 @@ This homework is to propose an innovative Projects and describe the key features
 
 ### 超級書桌
 ![](https://github.com/frank570570/MCU-project/blob/main/images/IMG_1261.jpg?raw=true)
+![](https://raw.githubusercontent.com/frank570570/MCU-project/732aa9770fc6792a96e227f68210978de9727d7b/images/%E9%A0%AD%E8%85%A6%E9%A2%A8%E6%9A%B4.jpg)
 ### 應用功能說明
 1. 回到家自動丟下背包自動幫我把所有裝置放到我需要的位置，讓我可以在上個廁所的時間內完成預備作業
 2. 自動幫我把需要充電的物品充電，並放置好預備位置
