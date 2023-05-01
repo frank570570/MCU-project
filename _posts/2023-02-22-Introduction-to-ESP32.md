@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Introduction to ESP32
-author: [Richard Kuo]
+author: [01053023]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-Introduction to ESP32 chips/boards, Arduino IDE/Toolchains, and ESP32 projects.
+OTA
+
+webserver and client
 
 ---
 ## Introduction to ESP32 SOCs
