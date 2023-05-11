@@ -8,7 +8,7 @@ tags: [jekyll, ai]
 
 ### OTA
 # 影片
-![https://photos.app.goo.gl/PWYDFGXpzTyn7cdQ7](https://www.youtube.com/watch?v=MXPm-fIC27Y&ab_channel=%E5%B7%AB%E5%85%B6%E9%9C%96)
+![](https://www.youtube.com/watch?v=MXPm-fIC27Y&ab_channel=%E5%B7%AB%E5%85%B6%E9%9C%96)
 # 圖片
 ![](https://raw.githubusercontent.com/frank570570/MCU-project/1ae563443eaeed69f7f76b6695392dda9c4b01b3/images/20230511(3)/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(1).png)
 ![](https://raw.githubusercontent.com/frank570570/MCU-project/1ae563443eaeed69f7f76b6695392dda9c4b01b3/images/20230511(3)/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-05-04%20205624.png)
