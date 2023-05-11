@@ -6,9 +6,20 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-OTA
+##OTA
+#影片
+![]()
+#圖片
+![]()
+#Code
 
-webserver and client
+
+
+##webserver and client
+#圖片
+![]()
+#Code
+![]()
 
 ---
 ## Introduction to ESP32 SOCs
