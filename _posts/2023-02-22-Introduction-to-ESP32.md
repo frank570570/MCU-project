@@ -5,7 +5,7 @@ author: [01053023]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
-
+# 此網頁內容包含OTA、webserver and client 
 ### OTA
 # 影片
 https://www.youtube.com/watch?v=MXPm-fIC27Y&ab_channel=%E5%B7%AB%E5%85%B6%E9%9C%96
@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=MXPm-fIC27Y&ab_channel=%E5%B7%AB%E5%85%B6%E9%9C%
 
 ---
 
-### webserver and client OTA
+### webserver and client 
 
 # 圖片
 ![](https://raw.githubusercontent.com/frank570570/MCU-project/6de9a91677b052b4985958347d5259fbefd688e4/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-05-11%20194739.png)
